@@ -1,0 +1,19 @@
+#main{
+    height: 400px;
+    width: 350px;
+    background-color: rgb(217, 217, 217);
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+}
+button{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    top: 200px;
+    left: 140px;
+}
